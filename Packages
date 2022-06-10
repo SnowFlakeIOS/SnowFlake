@@ -1,0 +1,14 @@
+Package: SnowFlake
+Name:SnowFlake
+Depends: mobilesubstrate
+Filename: debs/SnowFlake_5.0_iphoneos-arm.deb
+Size: 2816116
+MD5sum: 063a28c8bbdae276ec5e6b06992b9ce7
+Architecture: iphoneos-arm
+Description:SnowFlake
+Maintainer:SnowFlake
+Author:SnowFlake
+Section: Tweaks
+Version: 5.0
+Installed-Size: 904
+

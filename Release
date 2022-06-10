@@ -1,8 +1,13 @@
-Origin: SnowFlake's Repo
-Label: SnowFlake's Repo
+Origin: SnowFlake
+Label: SnowFlake
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: SnowFlake
 Architectures: iphoneos-arm
 Components: main
-Description: SnowFlake's Repo
+Description: SnowFlake
+MD5Sum:
+ 873ce3c8a2215577c25005c69a5d64bc 297 Packages
+ c62ad968e5c37cb5d7a63ac44f83a368 249 Packages.bz2
+ 260d482ae88fefcc4fd28caab3322edc 231 Packages.gz
+
