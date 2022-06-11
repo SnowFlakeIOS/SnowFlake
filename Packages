@@ -1,9 +1,9 @@
 Package: SnowFlake
 Name:SnowFlake
 Depends: mobilesubstrate
-Filename: debs/SnowFlake_BGMI_5.0.deb
-Size: 1818730
-MD5sum: 73a44b69c236eba8979c3efb1e825b7d
+Filename: debs/SnowFlake_5.0_iphoneos-arm.deb
+Size: 2816116
+MD5sum: 063a28c8bbdae276ec5e6b06992b9ce7
 Architecture: iphoneos-arm
 Description:SnowFlake
 Maintainer:SnowFlake
